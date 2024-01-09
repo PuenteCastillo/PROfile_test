@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Help_Active" data-name="Help Active" transform="translate(-1695 -826)">
+    <path id="Path_21613" data-name="Path 21613" d="M8,0H32a8,8,0,0,1,8,8V32a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8V8A8,8,0,0,1,8,0Z" transform="translate(1695 826)" fill="#d13496"/>
+    <path id="help-svgrepo-com" d="M12,2A10,10,0,1,1,2,12,10,10,0,0,1,12,2Zm0,2a8,8,0,1,0,8,8A8,8,0,0,0,12,4Zm0,12a1,1,0,1,1-1,1A1,1,0,0,1,12,16ZM12,6a4,4,0,0,1,1.19,7.82l-.19.054V14a1,1,0,0,1-1.993.117L11,14V13a1,1,0,0,1,.883-.993l.266-.012A2,2,0,1,0,10,10a1,1,0,0,1-2,0A4,4,0,0,1,12,6Z" transform="translate(1703 834)" fill="#fff" fill-rule="evenodd"/>
+  </g>
+</svg>

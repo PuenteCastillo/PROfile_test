@@ -1,0 +1,66 @@
+/* https://fonts.google.com/specimen/Inter - Replacement for Helvetica Neue */
+/*@import url('https://fonts.googleapis.com/css?family=Inter:regular,bold,italic');*/
+/*@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700');*/
+
+/* To get the italic & bold variations working properly, we had to download the font from Google and assign it here instead of the imports above */
+@font-face {
+  font-family: "Inter";
+  src: local("Inter.ttf"),
+  url("Inter.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Sans Serif";
+  src: local("OpenSansRegular.ttf"),
+    url("OpenSansRegular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Open Sans Bold";
+  src: local("OpenSansBold.ttf"), url("OpenSansBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Zooja Pro";
+  src: local("ZoojaPro.ttf"), url("ZoojaPro.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Serif";
+  src: local("PTSerifRegular.ttf"), url("PTSerifRegular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PT Serif Bold";
+  src: local("PTSerifBold.ttf"), url("PTSerifBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Anton Thick";
+  src: local("Anton-Refular.ttf"), url("Anton-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Arvo";
+  src: local("Arvo-Refular.ttf"), url("Arvo-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Merriweather";
+  src: local("Merriweather-Refular.ttf"), url("Merriweather-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: local("Poppins-Refular.ttf"), url("Poppins-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Baskerville";
+  src: local("Baskerville-Refular.ttf"), url("Baskerville-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Lora";
+  src: local("Lora-Refular.ttf"), url("Lora-Regular.ttf") format("truetype");
+}

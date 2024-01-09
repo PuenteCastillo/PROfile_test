@@ -1,0 +1,27 @@
+:root {
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  /*font-synthesis: none;*/
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+html {
+  overflow-x: hidden; /* prevents horizontal scroll on Windows */
+}
+
+body {
+  background-color: #f9fafc;
+  margin: 0;
+  padding: 0;
+  /*padding: 0 40px;*/
+}
+
+.ant-row {
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+}

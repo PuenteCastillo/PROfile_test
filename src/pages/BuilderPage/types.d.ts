@@ -1,0 +1,85 @@
+type BricksComponents = {
+  HeaderBrick: ({ logo, mode }: HeaderBrickProps) => JSX.Element;
+  HeroBrick: ({
+    background,
+    title,
+    titleFont,
+    titleSize,
+    subTitle,
+    subTitleFont,
+    subTitleSize,
+  }: HeroBrickProps) => JSX.Element;
+  QuoteBrick: ({
+    text,
+    textFont,
+    textSize,
+    background,
+  }: QuoteBrickProps) => JSX.Element;
+  AboutBrick: ({
+    background,
+    title,
+    body,
+    statOneTitle,
+    statOneData,
+    statTwoTitle,
+    statTwoData,
+    statThreeTitle,
+    statThreeData,
+    statFourTitle,
+    statFourData,
+    imageOne,
+    imageTwo,
+    imageThree,
+  }: AboutBrickProps) => JSX.Element;
+  ContentBrick: ({
+    title,
+    background,
+    isRounded,
+    imageOneTitle,
+    imageOneSubTitle,
+    imageTwoTitle,
+    imageTwoSubTitle,
+    imageThreeTitle,
+    imageThreeSubTitle,
+    imageFourTitle,
+    imageFourSubTitle,
+    imageOne,
+    imageTwo,
+    imageThree,
+    imageFourtitle,
+    background,
+    isRounded,
+    imageOneTitle,
+    imageOneSubTitle,
+    imageTwoTitle,
+    imageTwoSubTitle,
+    imageThreeTitle,
+    imageThreeSubTitle,
+    imageFourTitle,
+    imageFourSubTitle,
+    imageOne,
+    imageTwo,
+    imageThree,
+    imageFour,
+  }: ContentBrickProps) => JSX.Element;
+  GalleryBrick: ({
+    background,
+    title,
+    subTitle,
+    imageOne,
+    imageTwo,
+    imageThree,
+    imageFour,
+    imageFive,
+    imageSix,
+    imageSeven,
+  }: GalleryBrickProps) => JSX.Element;
+  SocialMediaFeedBrick: ({
+    title,
+    titleFont,
+    titleSize,
+    subTitle,
+    subTitleSize,
+  }: SocialMediaFeedBrickProps) => JSX.Element;
+  FooterBrick: () => JSX.Element;
+};

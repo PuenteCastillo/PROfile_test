@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="169" viewBox="0 0 250 169">
+  <g id="Group_32159" data-name="Group 32159" transform="translate(-108 -543)">
+    <text id="HEX" transform="translate(108 554)" fill="#333" font-size="12" font-family="ArialMT, Arial" letter-spacing="-0.01em"><tspan x="0" y="0">HEX</tspan></text>
+    <g id="Rectangle_10356" data-name="Rectangle 10356" transform="translate(108 567)" fill="#fff" stroke="#9f9f9f" stroke-width="1">
+      <rect width="50" height="50" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="49" height="49" rx="7.5" fill="none"/>
+    </g>
+    <g id="Rectangle_10357" data-name="Rectangle 10357" transform="translate(168 567)" fill="#fff" stroke="#9f9f9f" stroke-width="1">
+      <rect width="102" height="50" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="101" height="49" rx="7.5" fill="none"/>
+    </g>
+    <text id="_FFFFFF" data-name="#FFFFFF" transform="translate(184 599)" fill="#333" font-size="18" font-family="ArialMT, Arial" letter-spacing="-0.01em"><tspan x="0" y="0">#FFFFFF</tspan></text>
+    <text id="RGB" transform="translate(108 649)" fill="#333" font-size="12" font-family="ArialMT, Arial" letter-spacing="-0.01em"><tspan x="0" y="0">RGB</tspan></text>
+    <g id="Rectangle_9982" data-name="Rectangle 9982" transform="translate(110 662)" fill="#fff" stroke="#9f9f9f" stroke-width="1">
+      <rect width="76" height="50" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="75" height="49" rx="7.5" fill="none"/>
+    </g>
+    <g id="Rectangle_9983" data-name="Rectangle 9983" transform="translate(196 662)" fill="#fff" stroke="#9f9f9f" stroke-width="1">
+      <rect width="76" height="50" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="75" height="49" rx="7.5" fill="none"/>
+    </g>
+    <g id="Rectangle_9984" data-name="Rectangle 9984" transform="translate(282 662)" fill="#fff" stroke="#9f9f9f" stroke-width="1">
+      <rect width="76" height="50" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="75" height="49" rx="7.5" fill="none"/>
+    </g>
+    <text id="R:_255" data-name="R: 255" transform="translate(120 694)" fill="#333" font-size="18" font-family="ArialMT, Arial" letter-spacing="-0.01em"><tspan x="0" y="0">R: 255</tspan></text>
+    <text id="G:_255" data-name="G: 255" transform="translate(206 694)" fill="#333" font-size="18" font-family="ArialMT, Arial" letter-spacing="-0.01em"><tspan x="0" y="0">G: 255</tspan></text>
+    <text id="B:_255" data-name="B: 255" transform="translate(292 694)" fill="#333" font-size="18" font-family="ArialMT, Arial" letter-spacing="-0.01em"><tspan x="0" y="0">B: 255</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Help_Hover" data-name="Help Hover" transform="translate(-1016 -826)">
+    <rect id="Rectangle_10280" data-name="Rectangle 10280" width="40" height="40" rx="8" transform="translate(1016 826)" fill="#fee9fd"/>
+    <path id="help-svgrepo-com" d="M12,2A10,10,0,1,1,2,12,10,10,0,0,1,12,2Zm0,2a8,8,0,1,0,8,8A8,8,0,0,0,12,4Zm0,12a1,1,0,1,1-1,1A1,1,0,0,1,12,16ZM12,6a4,4,0,0,1,1.19,7.82l-.19.054V14a1,1,0,0,1-1.993.117L11,14V13a1,1,0,0,1,.883-.993l.266-.012A2,2,0,1,0,10,10a1,1,0,0,1-2,0A4,4,0,0,1,12,6Z" transform="translate(1024 834)" fill="#d13496" fill-rule="evenodd"/>
+  </g>
+</svg>

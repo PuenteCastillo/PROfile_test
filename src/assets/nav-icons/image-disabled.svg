@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="IMAGE_OPTIONS" data-name="IMAGE OPTIONS" opacity="0.3">
+    <path id="Path_21610" data-name="Path 21610" d="M8,0H32a8,8,0,0,1,8,8V32a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8V8A8,8,0,0,1,8,0Z" fill="#fff"/>
+    <path id="ic_crop_original_24px" d="M20.778,3H5.222A2.229,2.229,0,0,0,3,5.222V20.778A2.229,2.229,0,0,0,5.222,23H20.778A2.229,2.229,0,0,0,23,20.778V5.222A2.229,2.229,0,0,0,20.778,3Zm0,17.778H5.222V5.222H20.778Zm-5.6-7.456-3.056,3.933L9.944,14.633,6.889,18.556H19.111Z" transform="translate(7 7)"/>
+  </g>
+</svg>

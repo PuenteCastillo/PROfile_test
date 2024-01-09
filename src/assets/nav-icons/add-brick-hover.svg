@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Brick_Options_Hover" data-name="Brick Options Hover" transform="translate(-1016 -403)">
+    <rect id="Rectangle_10279" data-name="Rectangle 10279" width="40" height="40" rx="8" transform="translate(1016 403)" fill="#e9f1fe"/>
+    <g id="Rectangle_10315" data-name="Rectangle 10315" transform="translate(1025 415)" fill="none" stroke="#4392c9" stroke-linecap="round" stroke-width="2">
+      <rect width="22" height="16" rx="3" stroke="none"/>
+      <rect x="1" y="1" width="20" height="14" rx="2" fill="none"/>
+    </g>
+    <path id="Path_21614" data-name="Path 21614" d="M-18933.494-23650.809v7" transform="translate(19969.494 24070.309)" fill="none" stroke="#4392c9" stroke-linecap="round" stroke-width="2"/>
+    <path id="Path_21615" data-name="Path 21615" d="M-18933.494-23650.809v7" transform="translate(-22611.309 19356.494) rotate(90)" fill="none" stroke="#4392c9" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>

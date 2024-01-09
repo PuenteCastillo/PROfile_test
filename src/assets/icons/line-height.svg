@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="20" viewBox="0 0 30 20">
+  <g id="Group_6629" data-name="Group 6629" transform="translate(-605 -219)">
+    <path id="reorder-horizontal" d="M3,19.286V16.429H23v2.857M3,25V22.143H17.773V25M3,13.571V10.714H17.773v2.857M23,5V7.857H3V5Z" transform="translate(612 214)" />
+    <g id="Group_6628" data-name="Group 6628" transform="translate(-16 -48)">
+      <path id="ic_vertical_align_center_24px" d="M8,4H5v8.108H3V4H0L4,0Z" transform="translate(621 267)" />
+      <path id="ic_vertical_align_center_24px-2" data-name="ic_vertical_align_center_24px" d="M0,4H3V0H5V4H8L4,8Z" transform="translate(621 279)" />
+    </g>
+  </g>
+</svg>
